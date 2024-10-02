@@ -4,6 +4,5 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 public class Main {
     public static void main(String[] args) {
-        
     }
 }
